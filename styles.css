@@ -1,0 +1,25 @@
+body{
+    background-image: url(/pics/ocean-1867285__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    background-color: antiquewhite;
+}
+
+h2{
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    text-align: center;
+    color: dodgerblue;
+}
+
+button{
+    margin-left: 1cm;
+}
+
+.carousel-inner img {
+    margin: auto;
+  }
+  
